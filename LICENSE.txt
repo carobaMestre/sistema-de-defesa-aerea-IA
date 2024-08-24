@@ -1,0 +1,17 @@
+**Licença de Software MIT**
+
+Copyright (c) 2023 Emanoel Vitor Sousa Gomes
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar no Software sem restrição, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, sujeitas às seguintes condições:
+
+A acima isenção de responsabilidade deve ser incluída em todas as cópias ou partes substanciais do Software.
+
+O Software é fornecido "no estado em que se encontra", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a, garantias de comercialização, adequação a uma finalidade específica e não violação. Em nenhum caso os autores ou titulares dos direitos autorais serão responsáveis por qualquer reivindicação, danos ou outras responsabilidades, seja em uma ação de contrato, responsabilidade civil ou de outra forma, resultantes de ou em conexão com o Software ou o uso ou outros negócios no Software.
+
+Qualquer pessoa que utilizar este software deve concordar com os termos desta licença. Se você não concorda com os termos desta licença, não utilize o software.
+
+Titular dos direitos autorais: Emanoel Vitor Sousa Gomes  
+Nome do projeto: Sistema de Defesa Aérea  
+Data da última atualização: 23/08/2024  
+
+Para questões relacionadas a esta licença, entre em contato através do e-mail: emanoelssjp@gmail.com
